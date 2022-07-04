@@ -1,2 +1,2 @@
-# Wind energy prediction with PySpark in Databricks
+# Wind energy prediction with PySpark
 
